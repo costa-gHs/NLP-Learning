@@ -1,4 +1,4 @@
-# Meu Projeto de Processamento de Linguagem Natural, Ciência de Dados e IA
+# Exercicio de manipulação de strings para estudo de NLP
 
 Este é um projeto emocionante que combina **Processamento de Linguagem Natural (NLP)**, **Ciência de Dados** e **Inteligência Artificial (IA)**. Vamos explorar as maravilhas dessas áreas e criar soluções inovadoras!
 
